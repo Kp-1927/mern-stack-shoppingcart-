@@ -1,0 +1,30 @@
+.BrandLogo{
+    
+    width: 100px;
+}
+.CartLogo{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.cartvalue{
+    color: azure;
+}
+.navitem1{
+    text-decoration: none;
+    color: aliceblue;
+}
+.navitem1:focus{
+    text-decoration: none;
+    color:rgb(95, 203, 158);
+}
+.navitem2{
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 25px;
+    margin-top: 8px;
+}
+.navitem2:focus{
+    text-decoration: none;
+    color:rgb(80, 72, 147);
+}
